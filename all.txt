@@ -1,0 +1,10 @@
+F# E C B3 D F A G
+C E F# A F5 D5 B G
+C5 E5 A F#5 F5 D5 B G
+C E F# D F B A G
+F# A C5 E5 D5 F5 B G
+F E C5 A F# D B G
+A F E C F# D B G
+F E D F# C5 B A G
+A F E D F# C5 B G
+F5 E5 C5 F# A D B G
