@@ -3,9 +3,9 @@ channels:
 - defaults
 dependencies:
 - python=3.6.7
-- matplotlib=3.0.1
-- numpy
 - pip=18.1=py36_0
 - pip:
   - music21
-- scipy
+  - matplotlib
+  - numpy
+  - scipy
